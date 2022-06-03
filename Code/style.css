@@ -1,0 +1,51 @@
+#title, .subtitle, .subdosubtitle, .texto1, .lista, .div1, .img1, .fim{
+Color: rgb(175, 0, 228);
+font-size: 16px;
+padding-left: 25px;
+padding-right: 25px;
+}
+.subdosubtitle {
+font-size: 12px;
+font-style: italic;
+color: rgb(175, 0, 228);
+padding-left: 25px;
+padding-right: 25px;
+}
+.subtitle {
+font-size: 12px;
+font-family: 'Times New Roman', Times, serif;
+color: rgb(175, 0, 228);
+padding-left: 25px;
+padding-right: 25px;
+}
+.texto1{
+color:white;
+font-style: italic;
+font-size: 10px;
+padding-left: 25px;
+padding-right: 25px;
+text-align: justify;
+}
+.lista{
+font-size: 10px;
+padding-left: 35px;
+padding-right: 25px;
+padding-bottom: 25px;
+text-align: left;
+}
+.div1{
+border: 2px solid rgb(175, 0, 228);
+background-color: black;
+border-radius: 10%; 
+}
+.img1{
+padding-left: 25px;
+padding-top:25px ;
+padding-right: 25px;
+
+}
+.fim{
+text-align: right;
+font-size: 10px;
+padding-bottom: 25px;
+}
